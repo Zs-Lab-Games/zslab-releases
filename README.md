@@ -4,13 +4,15 @@ Distribuição do **ZS Lab (Zumbi Survival)**, beta.
 
 ## Instalar
 
-1. Baixe o launcher: [ZSLabLauncher.exe](https://github.com/Zs-Lab-Games/zslab-releases/releases/latest/download/ZSLabLauncher.exe)
-2. Abra o arquivo. Ele se instala em `%LOCALAPPDATA%\ZSLab` e cria atalhos na Área de Trabalho e no Menu Iniciar.
-3. O launcher baixa o jogo e, a cada abertura, instala as atualizações automaticamente.
+1. Baixe o instalador: **[ZSLab_Setup.exe](https://github.com/Zs-Lab-Games/zslab-releases/releases/latest/download/ZSLab_Setup.exe)**
+2. Execute e siga o assistente (não precisa de administrador). Ao final, o ZS Lab Launcher abre e baixa o jogo (~100 MB).
+3. Abra pelo atalho **ZS Lab**: o launcher instala as atualizações automaticamente a cada abertura.
+
+Para desinstalar: **Configurações → Aplicativos → ZS Lab → Desinstalar**.
 
 Requisitos: Windows 10/11 64 bits.
 
-> O launcher ainda não tem assinatura digital. Se o Windows SmartScreen mostrar "O Windows protegeu o computador",
+> O instalador ainda não tem assinatura digital. Se o Windows SmartScreen mostrar "O Windows protegeu o computador",
 > clique em **Mais informações → Executar assim mesmo**.
 
 Este repositório contém apenas os arquivos de distribuição (builds compactadas e manifestos assinados).
